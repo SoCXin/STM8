@@ -3,7 +3,7 @@
 menu.upload_method=Upload method
 ##############################################################
 
-stm8sblue.name=STM8S103F3 Breakout Board
+stm8sblue.name=STM8S103F3
 
 stm8sblue.upload.tool=stm8flash
 stm8sblue.upload.protocol=stlinkv2
@@ -26,7 +26,7 @@ stm8sblue.upload.speed=1
 
 ##############################################################
 
-stm8sdisco.name=STM8S105C6 Discovery Board
+stm8sdisco.name=STM8S105C6
 
 # First upload method is the default method
 stm8sdisco.menu.upload_method.stm8flash_onboardMethod=Onboard ST-Link/V1 programmer
@@ -59,7 +59,7 @@ stm8sdisco.build.variant=stm8sdisco
 
 ##############################################################
 
-stm8sblack.name=STM8S105K4T6 Breakout Board
+stm8sblack.name=STM8S105K4
 
 # First upload method is the default method
 stm8sblack.menu.upload_method.stm8galMethod=Serial (using stm8gal with builtin bootloader)
@@ -88,7 +88,7 @@ stm8sblack.build.variant=stm8sblack
 
 ##############################################################
 
-s8uno.name=sduino UNO (STM8S105K6)
+s8uno.name=STM8S105K6
 
 # First upload method is the default method
 s8uno.menu.upload_method.stm8galMethod=Serial (using stm8gal with builtin bootloader)
@@ -118,7 +118,7 @@ s8uno.build.variant=s8uno
 
 ##############################################################
 
-mb208.name=sduino MB (STM8S208MBT6B)
+mb208.name=STM8S208MBT6B
 
 # First upload method is the default method
 mb208.menu.upload_method.stm8galMethod=Serial (using stm8gal with builtin bootloader)
