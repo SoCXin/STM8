@@ -118,7 +118,7 @@ s8uno.build.variant=s8uno
 
 ##############################################################
 
-mb208.name=STM8S208MBT6B
+mb208.name=STM8S208MB
 
 # First upload method is the default method
 mb208.menu.upload_method.stm8galMethod=Serial (using stm8gal with builtin bootloader)
