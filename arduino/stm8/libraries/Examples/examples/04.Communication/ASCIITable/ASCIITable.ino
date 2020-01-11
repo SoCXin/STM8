@@ -1,25 +1,3 @@
-/*
-  ASCII table
-
-  Prints out byte values in all possible formats:
-  - as raw binary values
-  - as ASCII-encoded decimal, hex, octal, and binary values
-
-  For more on ASCII, see http://www.asciitable.com and http://en.wikipedia.org/wiki/ASCII
-
-  The circuit: No external hardware needed.
-
-  created 2006
-  by Nicholas Zambetti
-  modified 9 Apr 2012
-  by Tom Igoe
-  modified 28 Feb 2017 for use with sduino
-  by Michael Mayer
-
-  This example code is in the public domain.
-
-  http://www.arduino.cc/en/Tutorial/ASCIITable
-*/
 
 void setup() {
   //Initialize serial and wait for port to open:
