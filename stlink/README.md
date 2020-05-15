@@ -1,4 +1,5 @@
-stm8flash
+# [STM8 STLink flash](https://github.com/vdudouyt/stm8flash) 
+
 =========
 
 This is a free and opensource software distributed under the terms of the GNU General Public License v2.
@@ -110,11 +111,3 @@ Support table
 | stm8splnb1  |  ?    |  ?     |  ?   |  ?     |  ?      |  ?    |
 | stm8tl5??4  |  ?    |  no    |  ?   |  ?     |  no     |  ?    |
 | stnrg???a   |  ?    |  ?     |  ?   |  ok    |  ok     |  ?    |
-
-Legend:
-
-  * `ok`   - Fully supported.
-  * `no`   - Not supported.
-  * `?`    - Not tested.
-  * `FAIL` - Not working. Needs fix.
-

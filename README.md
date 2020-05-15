@@ -10,7 +10,7 @@
 [STM8](https://github.com/SoCXin/STM8)专有内核具有3级流水线的哈佛结构，8位微控制器平台基于高性能8位内核和先进外设集，基于意法半导体130 nm工艺，在8位单片机行业中占据着举足轻重的市场地位。
 
 #### [STM8L](https://github.com/SoCXin/STM8L) 
-=======
+
 [STM8](https://github.com/sochub/STM8) 内核具有3级流水线的哈佛结构，基于高性能8位内核和先进外设集
 
 #### [STM8L](https://github.com/sochub/STM8L) 
@@ -26,20 +26,12 @@ STM8单片机通用系列，采用ST的130纳米工艺技术和先进内核架�
 
 ### 开发工具
 
-### IDE开发环境
-
 * [IAR STM8](https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview) 
 * [cosmic](http://www.cosmicsoftware.com/stm8.php) 
 * [raisonance](http://support.raisonance.com/content/ride)
 * [Arduino](https://www.arduino.cc/) 
 * [STM8CubeMX](https://www.st.com/zh/development-tools/stm8cubemx.html)
-
-### 独立组件
-
-* [stm8gal](https://github.com/gicking/stm8gal) 
-uplading hexfiles to the STM8 microcontroller via UART or SPI
-* [stm8flash](https://github.com/vdudouyt/stm8flash) 
-program your stm8 devices with SWIM/stlink
+* [STM8gal](https://github.com/SoCXin/STM8gal) 
 * [SDCC](https://github.com/sochub/sdcc)
 
 ### STM8参考资源
