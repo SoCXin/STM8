@@ -9,20 +9,17 @@
 
 [STM8](https://github.com/SoCXin/STM8)专有内核具有3级流水线的哈佛结构，8位微控制器平台基于高性能8位内核和先进外设集，基于意法半导体130 nm工艺，在8位单片机行业中占据着举足轻重的市场地位。
 
-#### [STM8L](https://github.com/SoCXin/STM8L) 
+* [STM8L](https://github.com/SoCXin/STM8L) 
 
-[STM8](https://github.com/sochub/STM8) 内核具有3级流水线的哈佛结构，基于高性能8位内核和先进外设集
+[STM8L](https://github.com/SoCXin/STM8L)低功耗系列，与STM32L系列一样采用了专有超低漏电流工艺，利用最低功耗模式实现了超低功耗（0.30 uA）。
 
-#### [STM8L](https://github.com/sochub/STM8L) 
-
-STM8单片机低功耗系列，与STM32L系列一样采用了专有超低漏电流工艺，利用最低功耗模式实现了超低功耗（0.30 uA）。
-
-#### [STM8S](https://github.com/SoCXin/STM8S) 
+* [STM8S](https://github.com/SoCXin/STM8S) 
 
 STM8单片机通用系列，采用ST的130纳米工艺技术和先进内核架构，主频达到24 MHz，处理能力20MIPS。
 
-#### [STM8A](https://github.com/SoCXin/STM8A) 
+* [STM8A](https://github.com/SoCXin/STM8A) 
 
+车载控制领域
 
 ### 开发工具
 
@@ -31,8 +28,7 @@ STM8单片机通用系列，采用ST的130纳米工艺技术和先进内核架�
 * [raisonance](http://support.raisonance.com/content/ride)
 * [Arduino](https://www.arduino.cc/) 
 * [STM8CubeMX](https://www.st.com/zh/development-tools/stm8cubemx.html)
-* [STM8gal](https://github.com/SoCXin/STM8gal) 
-* [SDCC](https://github.com/sochub/sdcc)
+
 
 ### STM8参考资源
 
